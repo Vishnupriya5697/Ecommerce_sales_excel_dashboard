@@ -1,4 +1,4 @@
-# Ecommerce_sales_excel_dashboard
+# E-commerce_sales_excel_dashboard
 
 ## Project overview:
 Developed an interactive Ecommerce sales analysis dashboard using Microsoft excel to analyze sales performance, profitability, product categories and Year-over-Year (YoY) Growth. The dashboard provides a consolidated view of key business metrics to support data-driven decision making.
